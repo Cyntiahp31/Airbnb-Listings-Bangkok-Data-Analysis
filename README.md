@@ -1,6 +1,8 @@
 # Airbnb-Listings-Bangkok-Data-Analysis
 Comprehensive Analysis on Airbnb Listings Bangkok
 
+# Cyntia Angelica
+
 # Link
 1. Link Tableau: https://public.tableau.com/views/DataAnalysis-AirbnbBangkok/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 2. Link PowerPoint: https://www.canva.com/design/DAGBU61TbOc/0o4mZc_2PnXHh-3yCjQlvQ/edit?utm_content=DAGBU61TbOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
