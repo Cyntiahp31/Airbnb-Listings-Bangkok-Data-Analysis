@@ -4,7 +4,7 @@ Comprehensive Analysis on Airbnb Listings Bangkok
 # Link
 Link Tableau: https://public.tableau.com/views/DataAnalysis-AirbnbBangkok/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 Link PowerPoint: https://www.canva.com/design/DAGBU61TbOc/0o4mZc_2PnXHh-3yCjQlvQ/edit?utm_content=DAGBU61TbOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Link Video Presentasi: 
+Link Video Presentasi: https://drive.google.com/file/d/1U6EY7ZrNKDFJdIIi-0igUUZ_C7d8TnDD/view?usp=sharing
 
 # Background
 Airbnb adalah sebuah perusahaan yang bergerak di bidang perhotelan. Airbnb menawarkan berbagai pilihan untuk pelancong, dari kamar hotel, rumah, resort, condominium, bahkan kamar bersama. Airbnb menawarkan short-term maupun long-term stay, sehingga cocok bagi seorang turis ataupun warga menetap.
@@ -52,5 +52,3 @@ popularity:
 Other analysis:
 
 - Tiap distrik didominasi oleh listing bertipe 'Entire home/apt' atau 'Private room'
-
-Dari hasil analisis tersebut, kita akan menjawab pertanyaan di bagian Problem Statement:
