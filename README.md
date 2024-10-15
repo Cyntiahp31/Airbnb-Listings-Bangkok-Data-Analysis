@@ -5,7 +5,7 @@ Comprehensive Analysis on Airbnb Listings Bangkok
 
 # Link
 1. Link Tableau: https://public.tableau.com/views/DataAnalysis-AirbnbBangkok/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-2. Link PowerPoint: https://www.canva.com/design/DAGBU61TbOc/0o4mZc_2PnXHh-3yCjQlvQ/edit?utm_content=DAGBU61TbOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+2. Link Canva: https://www.canva.com/design/DAGBU61TbOc/QlVItqn7rzsfNbjsCUffag/view?utm_content=DAGBU61TbOc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 3. Link Video Presentasi: https://drive.google.com/file/d/1U6EY7ZrNKDFJdIIi-0igUUZ_C7d8TnDD/view?usp=sharing
 
 # Background
